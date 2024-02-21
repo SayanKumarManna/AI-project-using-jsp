@@ -1,1 +1,1 @@
-# AI-project-using-jsp
+# AI-project-using-json
